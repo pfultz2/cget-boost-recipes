@@ -1,0 +1,12 @@
+boostorg/assert
+boostorg/bind
+boostorg/config
+boostorg/conversion
+boostorg/core
+boostorg/detail
+boostorg/function
+boostorg/mpl
+boostorg/smart_ptr
+boostorg/static_assert
+boostorg/thread
+boostorg/type_traits

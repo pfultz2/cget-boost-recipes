@@ -1,0 +1,12 @@
+boostorg/assert
+boostorg/config
+boostorg/core
+boostorg/io
+boostorg/iterator
+boostorg/random
+boostorg/serialization
+boostorg/smart_ptr
+boostorg/static_assert
+boostorg/throw_exception
+boostorg/type_traits
+boostorg/winapi
